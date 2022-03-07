@@ -53,7 +53,7 @@
                 <div class="col-sm-4 border-right">
                   <div class="description-block">
                     <h5 class="description-header">Current Bill</h5>
-                    <span class="description-text">XXXXX</span>
+                    <span class="description-text">N100,000.00</span>
                   </div>
                   <!-- /.description-block -->
                 </div>
